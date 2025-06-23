@@ -1,4 +1,4 @@
-# TestingQwen2-1.5
+# Testing Qwen2-1.5
 ___
 Loading and testing of Qwen2-1.5 on mathematical questions
 
